@@ -1,11 +1,15 @@
 # OOPS
 OOPS Concept:
 Inheritance Concept:
-Interface 
-Implements
+Super/Parent class
+Sub/Child class
 Polymorphism Concept:
 Overload
 Override
-Abstraction Concept
-Encaptulation Concept
+Abstraction Concept:
+Interface 
+Implements
+Encaptulation Concept:
+Setter method
+Getter method
 These are my Opps concepts
